@@ -16,5 +16,3 @@ Explanation: From the array {1, 2, 3, 4, 5}, the largest element is 5.
 def largestElement(arr: list[int], n: int) -> int:
     
     return sorted(arr)[len(arr)-1]
-
-    
