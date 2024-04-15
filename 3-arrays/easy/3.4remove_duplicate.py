@@ -5,6 +5,7 @@ You are given a sorted integer array 'arr' of size 'n'.
 You need to remove the duplicates from the array such that each element appears only once.
 
 Return the length of this new array.
+https://www.naukri.com/code360/problems/remove-duplicates-from-sorted-array_1102307
 
 """
 

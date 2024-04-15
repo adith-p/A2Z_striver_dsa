@@ -18,6 +18,8 @@ Output: [4, 2]
 
 The second largest element after 5 is 4, and the second smallest element after 1 is 2.
 
+https://www.naukri.com/code360/problems/ninja-and-the-second-order-elements_6581960
+
 """
 
 def getSecondOrderElements(n: int,  a: list[int]) -> list[int]:
