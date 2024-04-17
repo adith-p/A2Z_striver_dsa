@@ -19,10 +19,25 @@ https://www.naukri.com/code360/problems/left-rotate-an-array-by-one_5026278
 
 """
 
-def rotateArray(arr: list, n: int) -> []:
+def rotateArray(arr: list, n: int) -> list:
     
     temp = arr[0]
     del arr[0]
     arr.append(temp)
 
     return arr
+def addOneToNumber(arr):
+    digit  = 0
+
+    for i in arr:
+        digit += i
+        digit *= 10
+    
+    digit //= 10
+    digit += 1
+    arr.clear()
+    for i in str(digit):
+        arr.append(int(i))
+
+    return arr
+addOneToNumber([0,2])
