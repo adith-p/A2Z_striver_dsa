@@ -1,6 +1,6 @@
-# A2Z_striver_dsa
+# A2Z_striver_dsa + Neetcode
 
-This repository is a collection of Python code that implements common data structures and algorithms used to solve problems from the Striver A2Z DSA course
+This repository is a collection of Python code that implements common data structures and algorithms used to solve problems from the Striver A2Z DSA course and Neetcode
 
 ## Contents
 
